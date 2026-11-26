@@ -5,15 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/david-jankoski/))
 [![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)]([YOUR_WEBSITE_URL](https://david-jankoski.github.io/tidytuesday/open_source_contributions.html))
 
-### Your role or what you're learning
-
-I am David and I enjoy helping people make better decisions through data. I love working in R / Rstudio / Positron on topics around Experimentation, Quasi-experimental & causal methods, Forecasting and anomalies detection, but I also quite enjoy SQL and building data models.  
-
 </div>
 
 ---
 
 ### About me
+
+I am David and I enjoy helping people make better decisions through data. I love working in R / Rstudio / Positron on topics around Experimentation, Quasi-experimental & causal methods, Forecasting and anomalies detection, but I also quite enjoy SQL and building data models.  
 
 - 🔭 I’m currently working on a project to help my cousin pick a university for his studies. 
 - 🌱 I’m learning Positron & AI-assisted data analysis.
